@@ -7,6 +7,17 @@ Googleが中心となって開発・実装されているAMP（Accelerated Mobil
 [1]: http://blogs.bing.com/search/September-2016/bing-app-joins-the-amp-open-source-effort
 
 
+<!-- #toc -->
+
+* [AMPの目的](#amp%E3%81%AE%E7%9B%AE%E7%9A%84)
+* [AMP HTMLとHTMLとの違い](#amp-html%E3%81%A8html%E3%81%A8%E3%81%AE%E9%81%95%E3%81%84)
+* [パフォーマンスとセキュリティーにおけるメリット](#%E3%83%91%E3%83%95%E3%82%A9%E3%83%BC%E3%83%9E%E3%83%B3%E3%82%B9%E3%81%A8%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%83%BC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
+* [Googleへの依存とプライバシーにおけるデメリット](#google%E3%81%B8%E3%81%AE%E4%BE%9D%E5%AD%98%E3%81%A8%E3%83%97%E3%83%A9%E3%82%A4%E3%83%90%E3%82%B7%E3%83%BC%E3%81%AB%E3%81%8A%E3%81%91%E3%82%8B%E3%83%87%E3%83%A1%E3%83%AA%E3%83%83%E3%83%88)
+* [さいごに](#%E3%81%95%E3%81%84%E3%81%94%E3%81%AB)
+
+<!-- /toc -->
+
+
 AMPの目的
 ---------
 
